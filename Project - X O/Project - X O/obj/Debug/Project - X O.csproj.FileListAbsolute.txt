@@ -1,0 +1,7 @@
+C:\Projects\2017-05-26 - TypeScript\Project - X O\Project - X O\obj\Debug\Project - X O.csprojResolveAssemblyReference.cache
+C:\Projects\2017-05-26 - TypeScript\Project - X O\Project - X O\bin\TypeScriptHTMLApp1.dll.config
+C:\Projects\2017-05-26 - TypeScript\Project - X O\Project - X O\bin\TypeScriptHTMLApp1.dll
+C:\Projects\2017-05-26 - TypeScript\Project - X O\Project - X O\bin\TypeScriptHTMLApp1.pdb
+C:\Projects\2017-05-26 - TypeScript\Project - X O\Project - X O\obj\Debug\Project - X O.csproj.CoreCompileInputs.cache
+C:\Projects\2017-05-26 - TypeScript\Project - X O\Project - X O\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Projects\2017-05-26 - TypeScript\Project - X O\Project - X O\obj\Debug\TypeScriptHTMLApp1.pdb
